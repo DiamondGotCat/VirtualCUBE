@@ -1,10 +1,3 @@
-/*
- See the LICENSE.txt file for this sample’s licensing information.
-
- Abstract:
- AppDelegate that sets up and starts the virtual machine.
- */
-
 import Cocoa
 import Virtualization
 
